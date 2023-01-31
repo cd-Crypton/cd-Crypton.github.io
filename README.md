@@ -1,31 +1,14 @@
-Multiverse by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+## Carlo Dee - Gallery
 
+Welcome to Carlo Dee's Gallery! This is a one-page gallery design with a fully functional lightbox. I will be posting my personal photography and some digital artwork here.
 
-Say hello to Multiverse, a slick, one-page gallery design with a fully functional lightbox
-(courtesy of my Poptrox plugin for jQuery) and a custom, reusable "panel" system (click the
-"About" button in the lower right to see what I mean). Had a ton of fun putting this one
-together, and I hope you have as much fun working with it :)
+## Credits:
+```
+Font Awesome (fontawesome.io)
+jQuery (jquery.com)
+Poptrox (github.com/ajlkn/jquery.poptrox)
+Responsive Tools (github.com/ajlkn/responsive-tools)
+```
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Poptrox (github.com/ajlkn/jquery.poptrox)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Notes
+This webpage is built using `Multiverse by HTML5 UP` template, found in—of course, html5up.net.
